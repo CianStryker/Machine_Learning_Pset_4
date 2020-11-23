@@ -1,0 +1,11 @@
+---
+title: 'Problem Set #4'
+author: "Cian Stryker"
+date: "11/22/2020"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
